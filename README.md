@@ -13,7 +13,6 @@ In this mini project we used Python package SQLAlchemy to analyze the data and  
 ### Precipitation Analysis
 * 12 months of Precipitation was gathered by querying the data set. The results were then loaded into Pandas Dataframe and set to index the date columns.Then the results from  the Dataframe were generated in 'plot' method.
 
-![Screen Shot 2022-01-13 at 11 29 14 AM](https://user-images.githubusercontent.com/33403205/149374529-5de848a6-9db3-4670-99cc-06066e82cb48.png)
 
   ![precipitation](Images/precipitation.png)
 * Then utilized Pandas to print summary stats for precipitation data.
@@ -43,7 +42,6 @@ In this mini project we used Python package SQLAlchemy to analyze the data and  
 
     ![station-histogram](Images/station-histogram.png)
 
-* Close out your session.
 
 - - -
 
@@ -94,9 +92,6 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 ## Bonus: Other Recommended Analyses
 
-* The following are optional challenge queries. These are highly recommended to attempt, but not required for the homework.
-
-* Use the provided [temp_analysis_bonus_1_starter.ipynb](temp_analysis_bonus_1_starter.ipynb) and [temp_analysis_bonus_1_starter](temp_analysis_bonus_2_starter.ipynb) starter notebooks for each bonus challenge.
 
 ### Temperature Analysis I
 
@@ -158,19 +153,6 @@ Now that you have completed your initial analysis, design a Flask API based on t
 * Use Pandas to plot an area plot (`stacked=False`) for the daily normals.
 
   ![daily-normals](Images/daily-normals.png)
+c
 
-* Close out your session.
-
-## Rubric
-
-[Unit 10 Rubric - SQLAlchemy Homework - Surfs Up!](https://docs.google.com/document/d/1gT29iMF3avSvJruKpcHY4qovP5QitgXePqtjC6XESI0/edit?usp=sharing)
-
-- - -
-
-## References
-
-Menne, M.J., I. Durre, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012: An overview of the Global Historical Climatology Network-Daily Database. Journal of Atmospheric and Oceanic Technology, 29, 897-910, [https://doi.org/10.1175/JTECH-D-11-00103.1](https://doi.org/10.1175/JTECH-D-11-00103.1)
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+[Unit 10 Rubric - SQLAlchemy Homework - Surfs Up!](https://docs.google.com/document/d/1gT29iMF3avSvJruKpcHY4qovP5QitgXePqtjC6XESI0/edit?usp=sharing
