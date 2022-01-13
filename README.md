@@ -10,7 +10,8 @@
 
 4. Push the above changes to GitHub or GitLab.
 
-![surfs-up.png](Images/surfs-up.png)
+![download](https://user-images.githubusercontent.com/33403205/149370868-99588551-8070-45c4-bc9e-8ac60b8214c0.jpg)
+
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
 
